@@ -8,4 +8,6 @@
 .header {
     font-size: 4rem;
     color: white;
+    font-weight: 700;
+    text-align: center;
 }
